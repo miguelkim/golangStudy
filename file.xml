@@ -1,0 +1,10 @@
+<campus name="campus1">
+ <!--building-c-->
+ <Building name="big">
+  <building></building>
+  <!--Dev-->
+  <Device name="1" type="r">
+   <device></device>
+  </Device>
+ </Building>
+</campus>
